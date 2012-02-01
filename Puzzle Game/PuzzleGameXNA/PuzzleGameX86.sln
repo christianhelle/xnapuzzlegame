@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGameX86", "PuzzleGameX86.csproj", "{C18EB439-8287-46DD-936E-42D1AA3E81F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGameXNAContent", "..\PuzzleGameXNAContent\PuzzleGameXNAContent.contentproj", "{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PuzzleGameX86.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\PuzzleGameXNAContent\\PuzzleGameXNAContent.contentproj
+		SccProjectName2 = \u0022$/Puzzle\u0020Game/Puzzle.XNA/PuzzleGameXNAContent\u0022,\u0020EKEAAAAA
+		SccLocalPath2 = ..\\PuzzleGameXNAContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Debug|Any CPU.Build.0 = Debug|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Debug|x86.ActiveCfg = Debug|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Debug|x86.Build.0 = Debug|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Release|Any CPU.ActiveCfg = Release|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Release|x86.ActiveCfg = Release|x86
+		{C18EB439-8287-46DD-936E-42D1AA3E81F7}.Release|x86.Build.0 = Release|x86
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

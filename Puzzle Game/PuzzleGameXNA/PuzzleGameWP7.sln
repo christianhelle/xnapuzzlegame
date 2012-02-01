@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGameWP7", "PuzzleGameWP7.csproj", "{2E658B74-8192-48D4-A8AE-412C1A9B3297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGameXNAContent", "..\PuzzleGameXNAContent\PuzzleGameXNAContent.contentproj", "{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PuzzleGameWP7.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\PuzzleGameXNAContent\\PuzzleGameXNAContent.contentproj
+		SccProjectName2 = \u0022$/Puzzle\u0020Game/Puzzle.XNA/PuzzleGameXNAContent\u0022,\u0020EKEAAAAA
+		SccLocalPath2 = ..\\PuzzleGameXNAContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Any CPU.Build.0 = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Any CPU.Deploy.0 = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2E658B74-8192-48D4-A8AE-412C1A9B3297}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CEAD72-F1C5-4561-8276-FD0D71BDBCCF}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
